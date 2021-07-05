@@ -4,11 +4,14 @@ body{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 h1{
     font-size: 50px;
     font-weight: 700;
+}
+.font-large{
+    font-size: 60px;
 }
 .orange-color{
     color: orange;
@@ -28,6 +31,7 @@ h1{
 }
 .first-section{
     width: 100%;
+    padding-top: 10px;
     padding-left: 5%;
     padding-right: 5%;
     margin-left: 5%;
@@ -35,7 +39,7 @@ h1{
 }
 .first-section img{
     width: 120%;
-    margin-left: 5%;
+    
     padding-left: 10%;
 }
 .mid-area{
@@ -72,4 +76,10 @@ h1{
 .third-dish{
     margin-right: 7%;
     margin-left: 3%;
+}
+.last-part{
+    background-color: black;
+    height: 300px;
+    color: white;
+    text-align: center;
 }
