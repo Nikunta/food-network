@@ -1,0 +1,75 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 50px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.orange-color{
+    color: orange;
+}
+.gray-color{
+    color: rgba(83, 81, 81, 0.849);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: white;
+}
+.paragraph-mod{
+    padding-bottom: 5px;
+}
+.first-section{
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.first-section img{
+    width: 120%;
+    margin-left: 5%;
+    padding-left: 10%;
+}
+.mid-area{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.recipies-align{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.recipie-pic{
+    border-radius: 20px;
+    height: 50%;
+    width: 100%;
+    margin-top: 2%;
+    
+}
+.box-item{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    width: 80%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 0;
+    
+
+}
+.first-dish{
+    margin-left: 7%;
+    margin-right: 3%;
+}
+.third-dish{
+    margin-right: 7%;
+    margin-left: 3%;
+}
