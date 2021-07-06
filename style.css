@@ -2,6 +2,13 @@ body{
     font-family: 'Poppins', sans-serif;
    
 }
+.header {
+    padding: 20px;
+    text-align: center;
+    background: gray;
+    color: white;
+    font-size: 30px;
+  }
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
